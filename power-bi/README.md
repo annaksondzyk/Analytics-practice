@@ -1,15 +1,15 @@
 Power BI Practice Dashboards
 
-### Fitness Dashboard
-[скрін]
+### Fitness Dashboard  
+[скрін]  
 булети
 
-### Sales Dashboard
-[скрін]
+### Sales Dashboard  
+[скрін]  
 булети
 
-### Marketing Dashboard
-[скрін]
+### Marketing Dashboard  
+[скрін]  
 булети
 
 
