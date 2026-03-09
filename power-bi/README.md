@@ -2,14 +2,17 @@ Power BI Practice Dashboards
 
 ### Fitness Dashboard  
 [скрін]  
+[Файл Power BI](power-bi/fitness-dashboard.pbix)  
 булети
 
 ### Sales Dashboard  
 [скрін]  
+[Файл Power BI](power-bi/fitness-dashboard.pbix)  
 булети
 
 ### Marketing Dashboard  
 [скрін]  
+[Файл Power BI](power-bi/fitness-dashboard.pbix)  
 булети
 
 
