@@ -1,67 +1,9 @@
 Power BI Practice Dashboards
 
-### Fitness Dashboard  
-[скрін]  
-[Файл Power BI](power-bi/fitness-dashboard.pbix)  
-булети
-
-### Sales Dashboard  
-[скрін]  
-[Файл Power BI](power-bi/fitness-dashboard.pbix)  
-булети
-
-### Marketing Dashboard  
-[скрін]  
-[Файл Power BI](power-bi/fitness-dashboard.pbix)  
-булети
-
-
-
-
-
-
-
-### 1. Fitness_tracker_app_design.pbix
-
-**Tool:** 
-Power BI
-**Description:**
-
-Practice dashboard focused on layout and visualization.
+### 1. Fitness Dashboard  
+![Fitness Screenshot](power-bi/fitness-dashboard.png)  
+[Power BI File](power-bi/fitness-dashboard.pbix)  
 **What was done:**
+A Power BI report built in a form of a fitness tracker app.  
+**Source:** [Link to Youtube](https://youtu.be/cYwioeHu_OU?si=TY6p5R1NYrpq2HuC)
 
-- data import
-- basic data cleaning
-- calculated measures
-- interactive visuals
-- dashboard layout
-**Origin:** https://youtu.be/cYwioeHu_OU?si=TY6p5R1NYrpq2HuC
-
-
-
-A Power BI report built in a form of a fitness tracker app.
-
-Covers the following elements:
-- Dynamic welcome text
-- A summary panel with user images
-- Background and placeholders in Power Point
-- APP like design in Power BI
-- A bookmark navigator to switch between date hierarchy levels
-
-Origin: https://youtu.be/cYwioeHu_OU?si=TY6p5R1NYrpq2HuC
-
-### Fitness Dashboard
-
-![Dashboard](fitness-dashboard.png)
-
-**Tool:** Power BI
-
-**Description:**
-Practice dashboard focused on layout and visualization.
-
-**What was done:**
-- data import
-- basic data cleaning
-- calculated measures
-- interactive visuals
-- dashboard layout
