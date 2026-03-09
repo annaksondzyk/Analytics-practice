@@ -1,7 +1,8 @@
 Power BI Practice Dashboards
 
 ### 1. Fitness Dashboard  
-<img width="1020" height="619" alt="image" src="https://github.com/user-attachments/assets/e2a2ca94-a7d9-4d34-8087-94ca9dad56ad" />
+<img width="1136" height="645" alt="image" src="https://github.com/user-attachments/assets/882dbadb-4522-4517-ad86-f19005f9eac9" />
+
 
 [Power BI File](power-bi/fitness-dashboard.pbix)  
 **What was done:**
