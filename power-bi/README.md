@@ -1,7 +1,7 @@
 Power BI Practice Dashboards
 
 ### 1. Fitness Dashboard  
-![Fitness Screenshot](power-bi/1.2.Fitness-tracker.jpg)  
+![Fitness Screenshot](1.2.Fitness-tracker.jpg)  
 [Power BI File](power-bi/fitness-dashboard.pbix)  
 **What was done:**
 A Power BI report built in a form of a fitness tracker app.  
