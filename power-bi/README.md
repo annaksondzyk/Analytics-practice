@@ -10,4 +10,4 @@ A Power BI report built in a form of a fitness tracker app.
 
 **Source:** [Link to Youtube](https://youtu.be/cYwioeHu_OU?si=TY6p5R1NYrpq2HuC)  
 **File Name:** 1.Fitness_tracker_app_design.pbix
-
+[Power BI dashboard](https://github.com/annaksondzyk/Taxi-service-performance-analysis/blob/main/Metrocar_Dashboard.pbix)
