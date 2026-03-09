@@ -1,10 +1,13 @@
 
 ### 1. Fitness_tracker_app_design.pbix
 
-**Tool:** Power BI
+**Tool:** 
+Power BI
 **Description:**
+
 Practice dashboard focused on layout and visualization.
 **What was done:**
+
 - data import
 - basic data cleaning
 - calculated measures
