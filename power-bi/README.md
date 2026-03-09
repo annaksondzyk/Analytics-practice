@@ -1,3 +1,22 @@
+Power BI Practice Dashboards
+
+### Fitness Dashboard
+[скрін]
+булети
+
+### Sales Dashboard
+[скрін]
+булети
+
+### Marketing Dashboard
+[скрін]
+булети
+
+
+
+
+
+
 
 ### 1. Fitness_tracker_app_design.pbix
 
