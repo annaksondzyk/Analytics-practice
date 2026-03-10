@@ -5,8 +5,9 @@ Power BI Practice Dashboards
 
 **What was done:**  
 A Power BI report built in a form of a fitness tracker app.  
+**Link to file:**  
+[Power BI dashboard](https://github.com/annaksondzyk/Analytics-practice/blob/main/power-bi/Fitness_tracker_app_design.pbix)   
 **Source:**  
-[Power BI dashboard](https://github.com/annaksondzyk/Analytics-practice/blob/main/power-bi/Fitness_tracker_app_design.pbix) 
 [Link to Youtube](https://youtu.be/cYwioeHu_OU?si=TY6p5R1NYrpq2HuC)  
 
 ---
