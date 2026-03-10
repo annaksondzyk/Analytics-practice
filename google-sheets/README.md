@@ -4,7 +4,8 @@
 The goal of this project was to analyze website user distribution and website sessions metrics, including:   
 - Average session duration, minutes;   
 - Average number of pages viewed per session;   
-- Average conversion to purchase per session, %    
+- Average conversion to purchase per session, %
+
 **Data Structure**  
 Three cleaned .csv files: Users, Subscriptions, User activity.  
 **Links**  
