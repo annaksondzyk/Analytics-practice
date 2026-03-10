@@ -4,7 +4,7 @@
 **What was done:**  
 Beautiful Dynamic Data Dashboard Report in Excel.  
 **Link to file:**  
-[Excel dashboard]()   
+[Excel dashboard](https://github.com/annaksondzyk/Analytics-practice/blob/main/excel/Excel%20Dashboard.xlsx)   
 **Source:**  
 [Link to Youtube](https://www.youtube.com/watch?v=YyjDA6oZMXs)  
 
