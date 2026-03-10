@@ -1,4 +1,4 @@
-### Website-sessions-analysis
+### Website sessions analysis
 
 <img width="1241" height="618" alt="image" src="https://github.com/user-attachments/assets/e9763cfe-729e-4d65-b06c-7cc7ec9d0daa" />
 
