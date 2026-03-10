@@ -1,17 +1,16 @@
-# Website-sessions-analysis
-| Google sheets |
-### Project Background  
+### Website-sessions-analysis
+
+**Project Background**  
 The goal of this project was to analyze website user distribution and website sessions metrics, including:  
 - Average session duration, minutes
 - Average number of pages viewed per session
-- Average conversion to purchase per session, %
-
+- Average conversion to purchase per session, %  
 **Data Structure**  
 Three cleaned .csv files: Users, Subscriptions, User activity.  
 **Links**  
 [Website sessions analysis](https://docs.google.com/spreadsheets/d/1Q8eQDGhbK8oD1UNp3pV5ejdh4UjNTuBBEWXChtYru9U/edit?gid=1565474615#gid=1565474615)
 
-### Summary of results  
+#### Summary of results  
 1. **Subscription structure:**  
 Free plan is the most common (35%). Among paid plans, Premium users (34%) slightly exceed Basic users (31%).
 2. **Geography:**  
