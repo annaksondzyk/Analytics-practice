@@ -8,6 +8,7 @@ The goal of this project was to analyze website user distribution and website se
 
 **Data Structure**  
 Three cleaned .csv files: Users, Subscriptions, User activity.  
+
 **Links**  
 [Website sessions analysis](https://docs.google.com/spreadsheets/d/1Q8eQDGhbK8oD1UNp3pV5ejdh4UjNTuBBEWXChtYru9U/edit?gid=1565474615#gid=1565474615)
 
