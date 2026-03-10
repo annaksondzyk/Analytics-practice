@@ -1,5 +1,3 @@
-Power BI Practice Dashboards
-
 ### Fitness Dashboard  
 <img width="1136" height="645" alt="image" src="https://github.com/user-attachments/assets/882dbadb-4522-4517-ad86-f19005f9eac9" />
 
