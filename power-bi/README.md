@@ -12,3 +12,4 @@ A Power BI report built in a form of a fitness tracker app.
 
 ----------
 
+### Fitness Dashboard  
