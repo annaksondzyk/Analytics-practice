@@ -1,5 +1,7 @@
 ### Website-sessions-analysis
 
+<img width="1241" height="618" alt="image" src="https://github.com/user-attachments/assets/e9763cfe-729e-4d65-b06c-7cc7ec9d0daa" />
+
 **Project Background**    
 The goal of this project was to analyze website user distribution and website sessions metrics, including:   
 - Average session duration, minutes;   
